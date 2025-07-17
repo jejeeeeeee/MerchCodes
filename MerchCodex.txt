@@ -1,7 +1,7 @@
 {
-    ["COOLTESTCODE"] = {
-        Animal = "Tung Tung Tung Sahur",
-        Quantity = "1",
-        Mutation = nil
-    }
+  "COOLTESTCODE": {
+    "Animal": "Tung Tung Tung Sahur",
+    "Quantity": "1",
+    "Mutation": null
+  }
 }
