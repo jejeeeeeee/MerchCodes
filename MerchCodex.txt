@@ -1,6 +1,6 @@
 {
-  "COOLTESTCODE": {
-    "Animal": "Tung Tung Tung Sahur",
+  "UUID1234": {
+    "Animal": "Example Animal",
     "Quantity": "1",
     "Mutation": "Nil"
   }
