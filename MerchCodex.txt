@@ -1,1 +1,6 @@
-HI GUYS I MAKE GAME!
+{
+    ["Tung Tung Tung Sahur"] = {
+        Quantity = "1",
+        Mutation = nil
+    },
+}
