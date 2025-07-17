@@ -1,11 +1,6 @@
 {
-  "UUID1234": {
-    "Animal": "Example Animal",
-    "Quantity": "1",
-    "Mutation": "Nil"
-  },
-  "J0XEUBYjnY": {
-    "Animal": "Burbaloni Loliloli",
+  "Q2NDnwF": {
+    "Animal": "Brainrot God Lucky Block",
     "Quantity": "1",
     "Mutation": "Gold"
   }
