@@ -2,6 +2,6 @@
   "COOLTESTCODE": {
     "Animal": "Tung Tung Tung Sahur",
     "Quantity": "1",
-    "Mutation": "Nil"
+    "Mutation": "Rainbow"
   }
 }
