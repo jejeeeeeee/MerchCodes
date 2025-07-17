@@ -1,7 +1,7 @@
 {
-  "EoD4": {
-    "Animal": "Blueberrinni Octopusini",
+  "4VaSI": {
+    "Animal": "Pot Hotspot",
     "Quantity": "1",
-    "Mutation": "Bloodrot"
+    "Mutation": "Rainbow"
   }
 }
