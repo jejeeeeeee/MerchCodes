@@ -1,6 +1,7 @@
 {
-    ["Tung Tung Tung Sahur"] = {
+    ["COOLTESTCODE"] = {
+        Animal = "Tung Tung Tung Sahur",
         Quantity = "1",
         Mutation = nil
-    },
+    }
 }
