@@ -1,7 +1,7 @@
 {
-  "Q2NDnwF": {
-    "Animal": "Brainrot God Lucky Block",
+  "EoD4": {
+    "Animal": "Blueberrinni Octopusini",
     "Quantity": "1",
-    "Mutation": "Gold"
+    "Mutation": "Bloodrot"
   }
 }
