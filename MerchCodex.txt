@@ -1,7 +1,7 @@
 {
-  "4VaSI": {
-    "Animal": "Pot Hotspot",
+  "QjXsDkhR": {
+    "Animal": "La Grande Combinasion",
     "Quantity": "1",
-    "Mutation": "Rainbow"
+    "Mutation": "Diamond"
   }
 }
