@@ -1,7 +1,7 @@
 {
-  "QjXsDkhR": {
-    "Animal": "La Grande Combinasion",
+  "Wfd4xyo": {
+    "Animal": "Graipuss Medussi",
     "Quantity": "1",
-    "Mutation": "Diamond"
+    "Mutation": "Bloodrot"
   }
 }
