@@ -1,7 +1,7 @@
 {
-  "Wfd4xyo": {
-    "Animal": "Graipuss Medussi",
+  "am2GvXSR": {
+    "Animal": "Girafa Celestre",
     "Quantity": "1",
-    "Mutation": "Bloodrot"
+    "Mutation": "Diamond"
   }
 }
